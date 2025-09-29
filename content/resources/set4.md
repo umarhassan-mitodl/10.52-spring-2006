@@ -5,6 +5,8 @@ description: This resource contains problems on streamlines, particle line, rect
 file: /courses/10-52-mechanics-of-fluids-spring-2006/58c44af975d72750b3894b06a370221c_set4.pdf
 file_size: 48612
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

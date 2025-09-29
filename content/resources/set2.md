@@ -4,6 +4,8 @@ description: This resource contains problems on fluid mechanics.
 file: /courses/10-52-mechanics-of-fluids-spring-2006/8eb22f04f99c096d5e5d11eb9fab19aa_set2.pdf
 file_size: 121503
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

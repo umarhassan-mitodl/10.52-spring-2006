@@ -4,6 +4,8 @@ description: This resource contains problems on mass flow rate, viscosity etc.
 file: /courses/10-52-mechanics-of-fluids-spring-2006/cb2f70be42e6490af9d107aaddd553d7_set5.pdf
 file_size: 230722
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
