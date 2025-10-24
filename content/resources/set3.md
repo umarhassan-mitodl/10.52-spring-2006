@@ -5,8 +5,6 @@ description: This resource contains problems on Mass transfer, force, pressure, 
 file: /courses/10-52-mechanics-of-fluids-spring-2006/add569baeebc8512b96e9589fdccac55_set3.pdf
 file_size: 94519
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

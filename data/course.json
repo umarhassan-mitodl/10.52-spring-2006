@@ -23,7 +23,6 @@
     "website": "10-52-mechanics-of-fluids-spring-2006"
   },
   "course_title": "Mechanics of Fluids",
-  "hide_download": true,
   "course_description": "This course is an advanced subject in fluid and continuum mechanics. The course content includes kinematics, macroscopic balances for linear and angular momentum, stress tensors, creeping flows and the lubrication approximation, the boundary layer approximation, linear stability theory, and some simple turbulent flows.\n",
   "department_numbers": [
     "10"
@@ -34,7 +33,6 @@
     "content": "6aa4b78b-ba85-8ec3-a576-6c59cc0acaa3",
     "website": "10-52-mechanics-of-fluids-spring-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],

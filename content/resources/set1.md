@@ -4,8 +4,6 @@ description: This resource contains problems on principal stresses.
 file: /courses/10-52-mechanics-of-fluids-spring-2006/43b20f9253741bfdb796dabb2cd95ec6_set1.pdf
 file_size: 46311
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

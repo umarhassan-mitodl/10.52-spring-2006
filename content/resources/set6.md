@@ -5,8 +5,6 @@ description: This resource contains problems on similarity transformation, poten
 file: /courses/10-52-mechanics-of-fluids-spring-2006/649fe5bb66db21dfea2f7ca4f440b5d1_set6.pdf
 file_size: 129125
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
